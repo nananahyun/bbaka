@@ -1,0 +1,14 @@
+
+  body {
+    background-image: url("kpop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .content {
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.3); /* 수정된 투명도 값 */
+    padding: 20px;
+  }
+
